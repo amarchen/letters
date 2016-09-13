@@ -12,8 +12,8 @@
 - Алексей Соболев - [Внешние процессы в Node.js. Особенности работы, костыли, велосипеды.](https://meetabit.com/talks/157)
 
 
-Подробные инструкции о том как добраться читайте на странице встречи - https://meetabit.com/events/199
+Подробные инструкции о том как добраться читайте на странице встречи - https://meetabit.com/events/199  
+![SEMRush](https://raw.githubusercontent.com/piterjs/letters/master/PiterJS-9/map.png)
 
 *Увидимся на встрече!*  
 *[PiterJS](http://piterjs.org)*
-
